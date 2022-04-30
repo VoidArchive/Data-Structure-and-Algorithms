@@ -13,5 +13,16 @@ class TestPalindrome(unittest.TestCase):
 
 
 
+    def test_isPalindrome_with_pointer(self):
+
+        self.assertTrue(Solution.isPalindrome_with_pointer(self,"A man, a plan, a canal: Panama"))
+        self.assertTrue(Solution.isPalindrome_with_pointer(self," "))
+        self.assertTrue(Solution.isPalindrome_with_pointer(self,".,"))
+
+
+        self.assertFalse(Solution.isPalindrome_with_pointer(self,"race a car"))
+
+
+
 if __name__=="__main__":
     unittest.main()

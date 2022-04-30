@@ -10,3 +10,4 @@ Problem | Difficulty
 --------|-----------
 [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py)| Easy
 [Valid Anagram](Array%20&%20Hashing/valid_anagram.py) | Easy
+[Two Sum](Array%20&%20Hashing/two_sum.py) | Easy

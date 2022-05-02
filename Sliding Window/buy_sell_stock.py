@@ -22,7 +22,7 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        left_pointer, right_pointer = 0, 1
+        left_pointer, right_pointer = 0, 1 
         max_profit = 0
 
         while right_pointer < len(prices):

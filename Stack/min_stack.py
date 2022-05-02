@@ -1,0 +1,51 @@
+'''
+Difficulty: Easy
+https://leetcode.com/problems/min-stack/
+
+Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+
+Implement the MinStack class:
+
+MinStack() initializes the stack object.
+void push(int val) pushes the element val onto the stack.
+void pop() removes the element on the top of the stack.
+int top() gets the top element of the stack.
+int getMin() retrieves the minimum element in the stack.
+
+Constraints:
+
+-231 <= val <= 231 - 1
+Methods pop, top and getMin operations will always be called on non-empty stacks.
+At most 3 * 104 calls will be made to push, pop, top, and getMin.
+'''
+
+class MinStack(object):
+
+    def __init__(self):
+        self.stack = []
+        self.minStack = []    
+
+    def push(self, val):
+        self.stack.append(val)
+        val = min(val, self.minStack[-1] if self.minStack else val)
+        self.minStack.append(val)
+
+    def pop(self):
+        self.stack.pop()
+        self.minStack.pop()
+
+    def top(self):
+        return self.stack[-1]
+        
+
+    def getMin(self):
+        return self.stack[-1]
+        
+
+
+# Your MinStack object will be instantiated and called as such:
+# obj = MinStack()
+# obj.push(val)
+# obj.pop()
+# param_3 = obj.top()
+# param_4 = obj.getMin()

@@ -27,3 +27,12 @@ Problem | Difficulty | Leetcode
 Problem | Difficulty | Leetcode
 --------|-----------|----------------------------------------------------
 [Best Time to Buy and Sell Stock](/Sliding%20Window/buy_sell_stock.py)| Easy | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+
+
+## [Stacks](/Stack/)
+
+Problem | Difficulty | Leetcode
+--------|-----------|----------------------------------------------------
+[Valid Parentheses](/Stack/valid_parentheses.py)| Easy | [20](https://leetcode.com/problems/valid-parentheses/)
+[Min Stack](/Stack/min_stack.py)| Easy  | [155](https://leetcode.com/problems/min-stack/)

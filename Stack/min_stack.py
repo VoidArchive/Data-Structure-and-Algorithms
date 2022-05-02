@@ -39,7 +39,7 @@ class MinStack(object):
         
 
     def getMin(self):
-        return self.stack[-1]
+        return self.minStack[-1]
         
 
 

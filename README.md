@@ -36,3 +36,10 @@ Problem | Difficulty | Leetcode
 --------|-----------|----------------------------------------------------
 [Valid Parentheses](/Stack/valid_parentheses.py)| Easy | [20](https://leetcode.com/problems/valid-parentheses/)
 [Min Stack](/Stack/min_stack.py)| Easy  | [155](https://leetcode.com/problems/min-stack/)
+
+
+## [Binary Search](/Binary%20Search/)
+
+Problem | Difficulty | Leetcode
+--------|-----------|----------------------------------------------------
+[Binary Search](/Binary%20Search/binary_search.py)| Easy | [704](https://leetcode.com/problems/binary-search/)

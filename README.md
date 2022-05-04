@@ -51,4 +51,4 @@ Problem | Difficulty | Leetcode
 Problem | Difficulty | Leetcode
 --------|-----------|----------------------------------------------------
 [Reverse Linked List](/Linked%20List/)| Easy | [206](https://leetcode.com/problems/reverse-linked-list/)
-
+[Merge Linked List](/Linked%20List/merge_linked_list.py)| Easy | [21](https://leetcode.com/problems/merge-two-sorted-lists/)

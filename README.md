@@ -53,3 +53,11 @@ Problem | Difficulty | Leetcode
 [Reverse Linked List](/Linked%20List/)| Easy | [206](https://leetcode.com/problems/reverse-linked-list/)
 [Merge Linked List](/Linked%20List/merge_linked_list.py)| Easy | [21](https://leetcode.com/problems/merge-two-sorted-lists/)
 [Linked List Cycle](Linked%20List/linked_list_cycle.py) | Easy | [141](https://leetcode.com/problems/linked-list-cycle/)
+
+
+## [Tree](/Tree/)
+
+Problem | Difficulty | Leetcode
+--------|-----------|----------------------------------------------------
+[Invert Binary Tree](/Tree/invert_binary_tree.py)| Easy | [226](https://leetcode.com/problems/invert-binary-tree/)
+

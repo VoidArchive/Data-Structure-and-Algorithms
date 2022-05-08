@@ -61,10 +61,5 @@ Problem | Difficulty | Leetcode
 --------|-----------|----------------------------------------------------
 [Invert Binary Tree](/Tree/invert_binary_tree.py)| Easy | [226](https://leetcode.com/problems/invert-binary-tree/)
 [Max Depth Binary Tree](/Tree/max_depth_binary_tree.py) | Easy | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-<<<<<<< HEAD
-
-=======
 [Diameter of Binary Tree](/Tree/diameter_of_binary_tree.py) | Easy | [543](https://leetcode.com/problems/diameter-of-binary-tree/)
->>>>>>> ab9e24025a2225a7853fa920343b9c71dd795ebc
-
 [Balanced Binary Tree](Tree/balanced_binary_tree.py) | Easy | [110](https://leetcode.com/problems/balanced-binary-tree/)

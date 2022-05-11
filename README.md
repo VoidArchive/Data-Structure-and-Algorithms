@@ -1,6 +1,6 @@
 # Data structure and algorithms 
 Practicing leetcode question to learn DSA - [neetcode.io](neetcode.io)
-And learning TDD (unittest) along the way.
+With Python, Javascript and Rust
 
 
 

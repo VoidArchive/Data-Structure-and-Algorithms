@@ -66,3 +66,10 @@ Problem | Difficulty | Leetcode
 [Same Tree](Tree/same_tree.py) | Easy | [100](https://leetcode.com/problems/same-tree/)
 [Sub Tree](Tree/sub_tree.py) | Easy | [572](https://leetcode.com/problems/subtree-of-another-tree/)
 [LCA of Binary Tree](Tree/lca_of_binary_tree.py) | Easy | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+
+
+## [Heap](/Heap/)
+
+Problem | Difficulty | Leetcode
+--------|-----------|----------------------------------------------------
+[Kth Largest Element in a Stream](/Heap/Kth_largest.py)| Easy | [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)

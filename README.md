@@ -62,3 +62,9 @@ With Python, Javascript and Rust
 | ------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
 | [Kth Largest Element in a Stream](/Heap/Kth_largest.py) | Easy       | [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
 | [Last Stone Weight](/Heap/last_stone_weight.py)         | Easy       | [1046](https://leetcode.com/problems/last-stone-weight/)              |
+
+## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
+
+| Problem                                                             | Difficulty | Leetcode                                             |
+| ------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
+| [Climbing Stairts](/1-D%20Dynamic%20Programming/climbing_stairs.py) | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |

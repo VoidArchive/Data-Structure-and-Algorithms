@@ -65,6 +65,7 @@ With Python, Javascript and Rust
 
 ## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
 
-| Problem                                                             | Difficulty | Leetcode                                             |
-| ------------------------------------------------------------------- | ---------- | ---------------------------------------------------- |
-| [Climbing Stairts](/1-D%20Dynamic%20Programming/climbing_stairs.py) | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |
+| Problem                                                                              | Difficulty | Leetcode                                             |
+| ------------------------------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
+| [Climbing Stairs](/1-D%20Dynamic%20Programming/climbing_stairs.py)                   | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |
+| [Min Cost Climbing Stairs](/1-D%20Dynamic%20Programming/min_cost_climbing_stairs.py) | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |

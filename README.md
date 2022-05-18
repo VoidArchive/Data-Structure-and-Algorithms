@@ -81,3 +81,9 @@ With Python, Javascript and Rust
 | Problem                                    | Difficulty | Leetcode                                            |
 | ------------------------------------------ | ---------- | --------------------------------------------------- |
 | [Meeting rooms](/Interval/meeting_room.py) | Easy       | [252](https://leetcode.com/problems/meeting-rooms/) |
+
+## [Bit Manipulation](/Bit%20Manipulation/)
+
+| Problem                                                | Difficulty | Leetcode                                            |
+| ------------------------------------------------------ | ---------- | --------------------------------------------------- |
+| [Single Numbers](/Bit%20Manipulation/single_number.py) | Easy       | [136](https://leetcode.com/problems/single-number/) |

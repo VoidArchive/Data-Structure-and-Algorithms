@@ -69,3 +69,15 @@ With Python, Javascript and Rust
 | ------------------------------------------------------------------------------------ | ---------- | ---------------------------------------------------- |
 | [Climbing Stairs](/1-D%20Dynamic%20Programming/climbing_stairs.py)                   | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |
 | [Min Cost Climbing Stairs](/1-D%20Dynamic%20Programming/min_cost_climbing_stairs.py) | Easy       | [70](https://leetcode.com/problems/climbing-stairs/) |
+
+## [Greedy](/Greedy/)
+
+| Problem                                      | Difficulty | Leetcode                                              |
+| -------------------------------------------- | ---------- | ----------------------------------------------------- |
+| [Maximum Sub array](/Greedy/max_subarray.py) | Easy       | [53](https://leetcode.com/problems/maximum-subarray/) |
+
+## [Intervals](/Interval/)
+
+| Problem                                    | Difficulty | Leetcode                                            |
+| ------------------------------------------ | ---------- | --------------------------------------------------- |
+| [Meeting rooms](/Interval/meeting_room.py) | Easy       | [252](https://leetcode.com/problems/meeting-rooms/) |

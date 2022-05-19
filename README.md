@@ -84,6 +84,7 @@ With Python, Javascript and Rust
 
 ## [Bit Manipulation](/Bit%20Manipulation/)
 
-| Problem                                                | Difficulty | Leetcode                                            |
-| ------------------------------------------------------ | ---------- | --------------------------------------------------- |
-| [Single Numbers](/Bit%20Manipulation/single_number.py) | Easy       | [136](https://leetcode.com/problems/single-number/) |
+| Problem                                                 | Difficulty | Leetcode                                               |
+| ------------------------------------------------------- | ---------- | ------------------------------------------------------ |
+| [Single Numbers](/Bit%20Manipulation/single_number.py)  | Easy       | [136](https://leetcode.com/problems/single-number/)    |
+| [Number of 1 Bits](/Bit%20Manipulation/num_of_1_bit.py) | Easy       | [191](https://leetcode.com/problems/number-of-1-bits/) |

@@ -14,6 +14,7 @@ impl Solution {
     }
 }
 
+
 fn main() {
     let v: Vec<i32> = vec![2, 7, 11, 15];
 

@@ -84,10 +84,12 @@ With Python, Javascript and Rust
 
 ## [Bit Manipulation](/Bit%20Manipulation/)
 
-| Problem                                                 | Difficulty | Leetcode                                               |
-| ------------------------------------------------------- | ---------- | ------------------------------------------------------ |
-| [Single Numbers](/Bit%20Manipulation/single_number.py)  | Easy       | [136](https://leetcode.com/problems/single-number/)    |
-| [Number of 1 Bits](/Bit%20Manipulation/num_of_1_bit.py) | Easy       | [191](https://leetcode.com/problems/number-of-1-bits/) |
-| [Reverse Bit](/Bit%20Manipulation/reverse_bit.py)       | Easy       | [190](https://leetcode.com/problems/reverse-bits/)     |
-| [Counting Bits](/Bit%20Manipulation/counting_bits.py)   | Easy       | []                                                     |
-| [Missing number](/Bit%20Manipulation/missing_number.py) | Easy       | [268](https://leetcode.com/problems/missing-number/)   |
+| Problem                                                   | Difficulty | Leetcode                                                  |
+| --------------------------------------------------------- | ---------- | --------------------------------------------------------- |
+| [Single Numbers](/Bit%20Manipulation/single_number.py)    | Easy       | [136](https://leetcode.com/problems/single-number/)       |
+| [Number of 1 Bits](/Bit%20Manipulation/num_of_1_bit.py)   | Easy       | [191](https://leetcode.com/problems/number-of-1-bits/)    |
+| [Reverse Bit](/Bit%20Manipulation/reverse_bit.py)         | Easy       | [190](https://leetcode.com/problems/reverse-bits/)        |
+| [Counting Bits](/Bit%20Manipulation/counting_bits.py)     | Easy       | [338](https://leetcode.com/problems/counting-bits/)       |
+| [Missing number](/Bit%20Manipulation/missing_number.py)   | Easy       | [268](https://leetcode.com/problems/missing-number/)      |
+| [Sum of Integer](Bit%20Manipulation/add_integer.py)       | Medium     | [371](https://leetcode.com/problems/sum-of-two-integers/) |
+| [Reverse Integer](/Bit%20Manipulation/reverse_integer.py) | Medium     | [7](https://leetcode.com/problems/reverse-integer/)       |

@@ -10,6 +10,7 @@ With Python, Javascript and Rust
 | [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py) | Easy       | [217](https://leetcode.com/problems/contains-duplicate/) |
 | [Valid Anagram](Array%20&%20Hashing/valid_anagram.py)           | Easy       | [242](https://leetcode.com/problems/valid-anagram/)      |
 | [Two Sum](Array%20&%20Hashing/two_sum.py)                       | Easy       | [1](https://leetcode.com/problems/two-sum/)              |
+| [Group Anagram](Array%20&%20Hashing/group_anagram.py)           | Medium     | [49](https://leetcode.com/problems/group-anagrams/)      |
 
 ## [Two Pointer](/Two%20Pointer/)
 

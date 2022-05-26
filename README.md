@@ -5,13 +5,14 @@ With Python, Javascript and Rust
 
 ## [Array and Hashing](/Array%20%26%20Hashing/)
 
-| Problem                                                             | Difficulty | Leetcode                                                      |
-| ------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
-| [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py)     | Easy       | [217](https://leetcode.com/problems/contains-duplicate/)      |
-| [Valid Anagram](Array%20&%20Hashing/valid_anagram.py)               | Easy       | [242](https://leetcode.com/problems/valid-anagram/)           |
-| [Two Sum](Array%20&%20Hashing/two_sum.py)                           | Easy       | [1](https://leetcode.com/problems/two-sum/)                   |
-| [Group Anagram](Array%20&%20Hashing/group_anagram.py)               | Medium     | [49](https://leetcode.com/problems/group-anagrams/)           |
-| [Most Frequent Kth Element](Array%20&%20Hashing/most_frequent_k.py) | Medium     | [347](https://leetcode.com/problems/top-k-frequent-elements/) |
+| Problem                                                             | Difficulty | Leetcode                                                           |
+| ------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
+| [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py)     | Easy       | [217](https://leetcode.com/problems/contains-duplicate/)           |
+| [Valid Anagram](Array%20&%20Hashing/valid_anagram.py)               | Easy       | [242](https://leetcode.com/problems/valid-anagram/)                |
+| [Two Sum](Array%20&%20Hashing/two_sum.py)                           | Easy       | [1](https://leetcode.com/problems/two-sum/)                        |
+| [Group Anagram](Array%20&%20Hashing/group_anagram.py)               | Medium     | [49](https://leetcode.com/problems/group-anagrams/)                |
+| [Most Frequent Kth Element](Array%20&%20Hashing/most_frequent_k.py) | Medium     | [347](https://leetcode.com/problems/top-k-frequent-elements/)      |
+| [Product Of array](/Array%20%26%20Hashing/product_of_array.py)      | Medium     | [238](https://leetcode.com/problems/product-of-array-except-self/) |
 
 ## [Two Pointer](/Two%20Pointer/)
 

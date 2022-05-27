@@ -13,6 +13,7 @@ With Python, Javascript and Rust
 | [Group Anagram](Array%20&%20Hashing/group_anagram.py)               | Medium     | [49](https://leetcode.com/problems/group-anagrams/)                |
 | [Most Frequent Kth Element](Array%20&%20Hashing/most_frequent_k.py) | Medium     | [347](https://leetcode.com/problems/top-k-frequent-elements/)      |
 | [Product Of array](/Array%20%26%20Hashing/product_of_array.py)      | Medium     | [238](https://leetcode.com/problems/product-of-array-except-self/) |
+| [Valid Suduko](/Array%20%26%20Hashing/valid_suduko.py)              | Medium     | [36](https://leetcode.com/problems/valid-sudoku/)                  |
 
 ## [Two Pointer](/Two%20Pointer/)
 

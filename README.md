@@ -23,6 +23,7 @@ With Python, Javascript and Rust
 | ------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
 | [Valid Palindrome](/Two%20Pointer/valid_palindrome.py) | Easy       | [125](https://leetcode.com/problems/valid-palindrome/)                 |
 | [Two Sum II](/Two%20Pointer/two_sum_II.py)             | Medium     | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| [Three Sum](/Two%20Pointer/three_sum.py)             | Medium     | [15](https://leetcode.com/problems/3sum/) |
 
 ## [Sliding Window](/Sliding%20Window/)
 

@@ -5,22 +5,24 @@ With Python, Javascript and Rust
 
 ## [Array and Hashing](/Array%20%26%20Hashing/)
 
-| Problem                                                                      | Difficulty | Leetcode                                                           |
-| ---------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
-| [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py)              | Easy       | [217](https://leetcode.com/problems/contains-duplicate/)           |
-| [Valid Anagram](Array%20&%20Hashing/valid_anagram.py)                        | Easy       | [242](https://leetcode.com/problems/valid-anagram/)                |
-| [Two Sum](Array%20&%20Hashing/two_sum.py)                                    | Easy       | [1](https://leetcode.com/problems/two-sum/)                        |
-| [Group Anagram](Array%20&%20Hashing/group_anagram.py)                        | Medium     | [49](https://leetcode.com/problems/group-anagrams/)                |
-| [Most Frequent Kth Element](Array%20&%20Hashing/most_frequent_k.py)          | Medium     | [347](https://leetcode.com/problems/top-k-frequent-elements/)      |
-| [Product Of array](/Array%20%26%20Hashing/product_of_array.py)               | Medium     | [238](https://leetcode.com/problems/product-of-array-except-self/) |
-| [Valid Suduko](/Array%20%26%20Hashing/valid_suduko.py)                       | Medium     | [36](https://leetcode.com/problems/valid-sudoku/)                  |
-| [Encode and Decode String](/Array%20%26%20Hashing/encode%26decode_string.py) | Medium     | [271](https://leetcode.com/problems/encode-and-decode-strings/)   |
+| Problem                                                                            | Difficulty | Leetcode                                                           |
+| ---------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------ |
+| [Contains Duplicate](Array%20&%20Hashing/contains_duplicate.py)                    | Easy       | [217](https://leetcode.com/problems/contains-duplicate/)           |
+| [Valid Anagram](Array%20&%20Hashing/valid_anagram.py)                              | Easy       | [242](https://leetcode.com/problems/valid-anagram/)                |
+| [Two Sum](Array%20&%20Hashing/two_sum.py)                                          | Easy       | [1](https://leetcode.com/problems/two-sum/)                        |
+| [Group Anagram](Array%20&%20Hashing/group_anagram.py)                              | Medium     | [49](https://leetcode.com/problems/group-anagrams/)                |
+| [Most Frequent Kth Element](Array%20&%20Hashing/most_frequent_k.py)                | Medium     | [347](https://leetcode.com/problems/top-k-frequent-elements/)      |
+| [Product Of array](/Array%20%26%20Hashing/product_of_array.py)                     | Medium     | [238](https://leetcode.com/problems/product-of-array-except-self/) |
+| [Valid Suduko](/Array%20%26%20Hashing/valid_suduko.py)                             | Medium     | [36](https://leetcode.com/problems/valid-sudoku/)                  |
+| [Encode and Decode String](/Array%20%26%20Hashing/encode%26decode_string.py)       | Medium     | [271](https://leetcode.com/problems/encode-and-decode-strings/)    |
+| [Longest Consecutive Number](/Array%20%26%20Hashing/longest_consecutive_number.py) | Medium     | [128](https://leetcode.com/problems/longest-consecutive-sequence/) |
 
 ## [Two Pointer](/Two%20Pointer/)
 
-| Problem                                                | Difficulty | Leetcode                                               |
-| ------------------------------------------------------ | ---------- | ------------------------------------------------------ |
-| [Valid Palindrome](/Two%20Pointer/valid_palindrome.py) | Easy       | [125](https://leetcode.com/problems/valid-palindrome/) |
+| Problem                                                | Difficulty | Leetcode                                                               |
+| ------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
+| [Valid Palindrome](/Two%20Pointer/valid_palindrome.py) | Easy       | [125](https://leetcode.com/problems/valid-palindrome/)                 |
+| [Two Sum II](/Two%20Pointer/two_sum_II.py)             | Medium     | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 
 ## [Sliding Window](/Sliding%20Window/)
 

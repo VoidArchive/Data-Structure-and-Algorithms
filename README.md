@@ -19,18 +19,19 @@ With Python, Javascript and Rust
 
 ## [Two Pointer](/Two%20Pointer/)
 
-| Problem                                                | Difficulty | Leetcode                                                               |
-| ------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
-| [Valid Palindrome](/Two%20Pointer/valid_palindrome.py) | Easy       | [125](https://leetcode.com/problems/valid-palindrome/)                 |
-| [Two Sum II](/Two%20Pointer/two_sum_II.py)             | Medium     | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
-| [Three Sum](/Two%20Pointer/three_sum.py)             | Medium     | [15](https://leetcode.com/problems/3sum/) |
-| [Container with most Water](/Two%20Pointer/container_with_most_water.py)             | Medium     | [11](https://leetcode.com/problems/container-with-most-water/) |
+| Problem                                                                  | Difficulty | Leetcode                                                               |
+| ------------------------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
+| [Valid Palindrome](/Two%20Pointer/valid_palindrome.py)                   | Easy       | [125](https://leetcode.com/problems/valid-palindrome/)                 |
+| [Two Sum II](/Two%20Pointer/two_sum_II.py)                               | Medium     | [167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| [Three Sum](/Two%20Pointer/three_sum.py)                                 | Medium     | [15](https://leetcode.com/problems/3sum/)                              |
+| [Container with most Water](/Two%20Pointer/container_with_most_water.py) | Medium     | [11](https://leetcode.com/problems/container-with-most-water/)         |
 
 ## [Sliding Window](/Sliding%20Window/)
 
-| Problem                                                                | Difficulty | Leetcode                                                              |
-| ---------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
-| [Best Time to Buy and Sell Stock](/Sliding%20Window/buy_sell_stock.py) | Easy       | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| Problem                                                                                                                       | Difficulty | Leetcode                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------------------------------------------- |
+| [Best Time to Buy and Sell Stock](/Sliding%20Window/buy_sell_stock.py)                                                        | Easy       | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)              |
+| [Longest Substring without repeating characters](/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium     | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 
 ## [Stacks](/Stack/)
 

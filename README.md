@@ -33,6 +33,7 @@ With Python, Javascript and Rust
 | [Best Time to Buy and Sell Stock](/Sliding%20Window/buy_sell_stock.py)                                                        | Easy       | [121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)              |
 | [Longest Substring without repeating characters](/Sliding%20Window/Longest%20Substring%20Without%20Repeating%20Characters.py) | Medium     | [3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | [Longest Repeating CHaracter Replacement](/Sliding%20Window/Longest%20Repeating%20Character%20Replacement.py)                 | Medium     | [424](https://leetcode.com/problems/longest-repeating-character-replacement/)      |
+| [Permutation in string](/Sliding%20Window/permutation_in_string.py)                                                           | Medium     | [567](https://leetcode.com/problems/permutation-in-string/)                        |
 
 ## [Stacks](/Stack/)
 

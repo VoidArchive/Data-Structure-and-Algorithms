@@ -37,10 +37,11 @@ With Python, Javascript and Rust
 
 ## [Stacks](/Stack/)
 
-| Problem                                          | Difficulty | Leetcode                                               |
-| ------------------------------------------------ | ---------- | ------------------------------------------------------ |
-| [Valid Parentheses](/Stack/valid_parentheses.py) | Easy       | [20](https://leetcode.com/problems/valid-parentheses/) |
-| [Min Stack](/Stack/min_stack.py)                 | Easy       | [155](https://leetcode.com/problems/min-stack/)        |
+| Problem                                                      | Difficulty | Leetcode                                                               |
+| ------------------------------------------------------------ | ---------- | ---------------------------------------------------------------------- |
+| [Valid Parentheses](/Stack/valid_parentheses.py)             | Easy       | [20](https://leetcode.com/problems/valid-parentheses/)                 |
+| [Min Stack](/Stack/min_stack.py)                             | Easy       | [155](https://leetcode.com/problems/min-stack/)                        |
+| [Reverse polish notation](/Stack/reverse_polish_notation.py) | Medium     | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 
 ## [Binary Search](/Binary%20Search/)
 

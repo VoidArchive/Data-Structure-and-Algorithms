@@ -42,6 +42,7 @@ With Python, Javascript and Rust
 | [Valid Parentheses](/Stack/valid_parentheses.py)             | Easy       | [20](https://leetcode.com/problems/valid-parentheses/)                 |
 | [Min Stack](/Stack/min_stack.py)                             | Easy       | [155](https://leetcode.com/problems/min-stack/)                        |
 | [Reverse polish notation](/Stack/reverse_polish_notation.py) | Medium     | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
+| [General Parenthesis](/Stack/generate_parenthesis.py)        | Medium     | [22](https://leetcode.com/problems/generate-parentheses/)              |
 
 ## [Binary Search](/Binary%20Search/)
 

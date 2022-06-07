@@ -43,6 +43,7 @@ With Python, Javascript and Rust
 | [Min Stack](/Stack/min_stack.py)                             | Easy       | [155](https://leetcode.com/problems/min-stack/)                        |
 | [Reverse polish notation](/Stack/reverse_polish_notation.py) | Medium     | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | [General Parenthesis](/Stack/generate_parenthesis.py)        | Medium     | [22](https://leetcode.com/problems/generate-parentheses/)              |
+| [Daily Temperature](/Stack/daily_temperature.py)             | Medium     | [739](https://leetcode.com/problems/daily-temperatures/)               |
 
 ## [Binary Search](/Binary%20Search/)
 

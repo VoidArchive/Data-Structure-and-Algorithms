@@ -44,6 +44,7 @@ With Python, Javascript and Rust
 | [Reverse polish notation](/Stack/reverse_polish_notation.py) | Medium     | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |
 | [General Parenthesis](/Stack/generate_parenthesis.py)        | Medium     | [22](https://leetcode.com/problems/generate-parentheses/)              |
 | [Daily Temperature](/Stack/daily_temperature.py)             | Medium     | [739](https://leetcode.com/problems/daily-temperatures/)               |
+| [Car Fleet](/Stack/car_fleet.py)                             | Medium     | [853](https://leetcode.com/problems/car-fleet/)                        |
 
 ## [Binary Search](/Binary%20Search/)
 

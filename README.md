@@ -48,12 +48,13 @@ With Python, Javascript and Rust
 
 ## [Binary Search](/Binary%20Search/)
 
-| Problem                                                              | Difficulty | Leetcode                                                            |
-| -------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- |
-| [Binary Search](/Binary%20Search/binary_search.py)                   | Easy       | [704](https://leetcode.com/problems/binary-search/)                 |
-| [Search a 2D Matrix](/Binary%20Search/search_2D_matrix.py)           | Medium     | [74](https://leetcode.com/problems/search-a-2d-matrix/)             |
-| [Koko eathing Banana](/Binary%20Search/koko_eating_banana.py)        | Medium     | [875](https://leetcode.com/problems/koko-eating-bananas/)           |
-| [Search in Rotated sorted array](/Binary%20Search/search_rotated.py) | Medium     | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/) |
+| Problem                                                                              | Difficulty | Leetcode                                                                   |
+| ------------------------------------------------------------------------------------ | ---------- | -------------------------------------------------------------------------- |
+| [Binary Search](/Binary%20Search/binary_search.py)                                   | Easy       | [704](https://leetcode.com/problems/binary-search/)                        |
+| [Search a 2D Matrix](/Binary%20Search/search_2D_matrix.py)                           | Medium     | [74](https://leetcode.com/problems/search-a-2d-matrix/)                    |
+| [Koko eathing Banana](/Binary%20Search/koko_eating_banana.py)                        | Medium     | [875](https://leetcode.com/problems/koko-eating-bananas/)                  |
+| [Search in Rotated sorted array](/Binary%20Search/search_rotated.py)                 | Medium     | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)        |
+| [Find Minimum of Rotated Sorted Array](/Binary%20Search/min_sorted_rotated_array.py) | Medium     | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
 
 ## [Linked List](/Linked%20List/)
 

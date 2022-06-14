@@ -55,6 +55,7 @@ With Python, Javascript and Rust
 | [Koko eathing Banana](/Binary%20Search/koko_eating_banana.py)                        | Medium     | [875](https://leetcode.com/problems/koko-eating-bananas/)                  |
 | [Search in Rotated sorted array](/Binary%20Search/search_rotated.py)                 | Medium     | [33](https://leetcode.com/problems/search-in-rotated-sorted-array/)        |
 | [Find Minimum of Rotated Sorted Array](/Binary%20Search/min_sorted_rotated_array.py) | Medium     | [153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |
+| [Time Based Key Value Store](/Binary%20Search/time_based_key_value_store.py)         | Medium     | [981](https://leetcode.com/problems/time-based-key-value-store/)           |
 
 ## [Linked List](/Linked%20List/)
 

@@ -59,13 +59,14 @@ With Python, Javascript and Rust
 
 ## [Linked List](/Linked%20List/)
 
-| Problem                                                                     | Difficulty | Leetcode                                                    |
-| --------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------- |
-| [Reverse Linked List](/Linked%20List/)                                      | Easy       | [206](https://leetcode.com/problems/reverse-linked-list/)   |
-| [Merge Linked List](/Linked%20List/merge_linked_list.py)                    | Easy       | [21](https://leetcode.com/problems/merge-two-sorted-lists/) |
-| [Linked List Cycle](Linked%20List/linked_list_cycle.py)                     | Easy       | [141](https://leetcode.com/problems/linked-list-cycle/)     |
-| [Reorder List](/Linked%20List/reorder_list.py)                              | Medium     | [143](https://leetcode.com/problems/reorder-list/)          |
-| [Remove nth Node for End of Linked List](/Linked%20List/remove_nth_node.py) | Medium     | [19](https://leetcode.com/problems/reorder-list/)           |
+| Problem                                                                          | Difficulty | Leetcode                                                            |
+| -------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------- |
+| [Reverse Linked List](/Linked%20List/)                                           | Easy       | [206](https://leetcode.com/problems/reverse-linked-list/)           |
+| [Merge Linked List](/Linked%20List/merge_linked_list.py)                         | Easy       | [21](https://leetcode.com/problems/merge-two-sorted-lists/)         |
+| [Linked List Cycle](Linked%20List/linked_list_cycle.py)                          | Easy       | [141](https://leetcode.com/problems/linked-list-cycle/)             |
+| [Reorder List](/Linked%20List/reorder_list.py)                                   | Medium     | [143](https://leetcode.com/problems/reorder-list/)                  |
+| [Remove nth Node for End of Linked List](/Linked%20List/remove_nth_node.py)      | Medium     | [19](https://leetcode.com/problems/reorder-list/)                   |
+| [Copy list with random pointer](/Linked%20List/copy_list_with_random_pointer.py) | Medium     | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) |
 
 ## [Tree](/Tree/)
 

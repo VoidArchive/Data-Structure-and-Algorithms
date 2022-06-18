@@ -67,6 +67,7 @@ With Python, Javascript and Rust
 | [Reorder List](/Linked%20List/reorder_list.py)                                   | Medium     | [143](https://leetcode.com/problems/reorder-list/)                  |
 | [Remove nth Node for End of Linked List](/Linked%20List/remove_nth_node.py)      | Medium     | [19](https://leetcode.com/problems/reorder-list/)                   |
 | [Copy list with random pointer](/Linked%20List/copy_list_with_random_pointer.py) | Medium     | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) |
+| [Add two number](/Linked%20List/add_two_number.py)                               | Medium     | [2](https://leetcode.com/problems/add-two-numbers/)                 |
 
 ## [Tree](/Tree/)
 

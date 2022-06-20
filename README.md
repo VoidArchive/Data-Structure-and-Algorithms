@@ -69,6 +69,7 @@ With Python, Javascript and Rust
 | [Copy list with random pointer](/Linked%20List/copy_list_with_random_pointer.py) | Medium     | [138](https://leetcode.com/problems/copy-list-with-random-pointer/) |
 | [Add two number](/Linked%20List/add_two_number.py)                               | Medium     | [2](https://leetcode.com/problems/add-two-numbers/)                 |
 | [Find Duplicate Number](/Linked%20List/find_duplicate_number.py)                 | Medium     | [287](https://leetcode.com/problems/find-the-duplicate-number/)     |
+| [LRU Cache](/Linked%20List/lru_cache.py)                                         | Medium     | [146](https://leetcode.com/problems/lru-cache/)                     |
 
 ## [Tree](/Tree/)
 

@@ -83,6 +83,7 @@ With Python, Javascript and Rust
 | [Sub Tree](Tree/sub_tree.py)                                                  | Easy       | [572](https://leetcode.com/problems/subtree-of-another-tree/)                        |
 | [LCA of Binary Tree](Tree/lca_of_binary_tree.py)                              | Easy       | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
 | [Binary Tree level order reversal](/Tree/binary_tree_level_order_reversal.py) | Medium     | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/)              |
+| [Binary Tree right side view](/Tree/right_side_view.py)                       | Medium     | [199](https://leetcode.com/problems/binary-tree-right-side-view/)                    |
 
 ## [Heap](/Heap/)
 

@@ -85,6 +85,7 @@ With Python, Javascript and Rust
 | [Binary Tree level order reversal](/Tree/binary_tree_level_order_reversal.py) | Medium     | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/)              |
 | [Binary Tree right side view](/Tree/right_side_view.py)                       | Medium     | [199](https://leetcode.com/problems/binary-tree-right-side-view/)                    |
 | [Count Good Nodes in Binary Tree](/Tree/%20Count_GoodNodes_in_Binary_Tree.py) | Medium     | [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)               |
+| [Validate binary search tree](/Tree/validate_binary_search_tree.py) | Medium     | [98](https://leetcode.com/problems/validate-binary-search-tree/)               |
 
 ## [Heap](/Heap/)
 

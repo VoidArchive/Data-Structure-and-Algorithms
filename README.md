@@ -73,20 +73,21 @@ With Python, Javascript and Rust
 
 ## [Tree](/Tree/)
 
-| Problem                                                                       | Difficulty | Leetcode                                                                             |
-| ----------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------ |
-| [Invert Binary Tree](/Tree/invert_binary_tree.py)                             | Easy       | [226](https://leetcode.com/problems/invert-binary-tree/)                             |
-| [Max Depth Binary Tree](/Tree/max_depth_binary_tree.py)                       | Easy       | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                   |
-| [Diameter of Binary Tree](/Tree/diameter_of_binary_tree.py)                   | Easy       | [543](https://leetcode.com/problems/diameter-of-binary-tree/)                        |
-| [Balanced Binary Tree](Tree/balanced_binary_tree.py)                          | Easy       | [110](https://leetcode.com/problems/balanced-binary-tree/)                           |
-| [Same Tree](Tree/same_tree.py)                                                | Easy       | [100](https://leetcode.com/problems/same-tree/)                                      |
-| [Sub Tree](Tree/sub_tree.py)                                                  | Easy       | [572](https://leetcode.com/problems/subtree-of-another-tree/)                        |
-| [LCA of Binary Tree](Tree/lca_of_binary_tree.py)                              | Easy       | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |
-| [Binary Tree level order reversal](/Tree/binary_tree_level_order_reversal.py) | Medium     | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/)              |
-| [Binary Tree right side view](/Tree/right_side_view.py)                       | Medium     | [199](https://leetcode.com/problems/binary-tree-right-side-view/)                    |
-| [Count Good Nodes in Binary Tree](/Tree/%20Count_GoodNodes_in_Binary_Tree.py) | Medium     | [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)               |
-| [Validate binary search tree](/Tree/validate_binary_search_tree.py)           | Medium     | [98](https://leetcode.com/problems/validate-binary-search-tree/)                     |
-| [Kth smallest element in BST](/Tree/kth_smallest_element_in_BST.py)           | Medium     | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                  |
+| Problem                                                                                       | Difficulty | Leetcode                                                                                        |
+| --------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
+| [Invert Binary Tree](/Tree/invert_binary_tree.py)                                             | Easy       | [226](https://leetcode.com/problems/invert-binary-tree/)                                        |
+| [Max Depth Binary Tree](/Tree/max_depth_binary_tree.py)                                       | Easy       | [104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                              |
+| [Diameter of Binary Tree](/Tree/diameter_of_binary_tree.py)                                   | Easy       | [543](https://leetcode.com/problems/diameter-of-binary-tree/)                                   |
+| [Balanced Binary Tree](Tree/balanced_binary_tree.py)                                          | Easy       | [110](https://leetcode.com/problems/balanced-binary-tree/)                                      |
+| [Same Tree](Tree/same_tree.py)                                                                | Easy       | [100](https://leetcode.com/problems/same-tree/)                                                 |
+| [Sub Tree](Tree/sub_tree.py)                                                                  | Easy       | [572](https://leetcode.com/problems/subtree-of-another-tree/)                                   |
+| [LCA of Binary Tree](Tree/lca_of_binary_tree.py)                                              | Easy       | [235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)            |
+| [Binary Tree level order reversal](/Tree/binary_tree_level_order_reversal.py)                 | Medium     | [102](https://leetcode.com/problems/binary-tree-level-order-traversal/)                         |
+| [Binary Tree right side view](/Tree/right_side_view.py)                                       | Medium     | [199](https://leetcode.com/problems/binary-tree-right-side-view/)                               |
+| [Count Good Nodes in Binary Tree](/Tree/%20Count_GoodNodes_in_Binary_Tree.py)                 | Medium     | [1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)                          |
+| [Validate binary search tree](/Tree/validate_binary_search_tree.py)                           | Medium     | [98](https://leetcode.com/problems/validate-binary-search-tree/)                                |
+| [Kth smallest element in BST](/Tree/kth_smallest_element_in_BST.py)                           | Medium     | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             |
+| [Binary Tree from preorder and inorder treversal](/Tree/bt_from_preoder_inorder_treversal.py) | Medium     | [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 
 ## [Heap](/Heap/)
 

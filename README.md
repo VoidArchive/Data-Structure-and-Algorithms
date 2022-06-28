@@ -89,6 +89,14 @@ With Python, Javascript and Rust
 | [Kth smallest element in BST](/Tree/kth_smallest_element_in_BST.py)                           | Medium     | [230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                             |
 | [Binary Tree from preorder and inorder treversal](/Tree/bt_from_preoder_inorder_treversal.py) | Medium     | [105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |
 
+## [Trie](/Trie/)
+
+| Problem                                   | Difficulty | Leetcode                                                         |
+| ----------------------------------------- | ---------- | ---------------------------------------------------------------- |
+| [Implement Trie](/Trie/implement_trie.py) | Medium     | [208](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+
+## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
+
 ## [Heap](/Heap/)
 
 | Problem                                                 | Difficulty | Leetcode                                                              |

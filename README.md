@@ -91,9 +91,10 @@ With Python, Javascript and Rust
 
 ## [Trie](/Trie/)
 
-| Problem                                   | Difficulty | Leetcode                                                         |
-| ----------------------------------------- | ---------- | ---------------------------------------------------------------- |
-| [Implement Trie](/Trie/implement_trie.py) | Medium     | [208](https://leetcode.com/problems/implement-trie-prefix-tree/) |
+| Problem                                                                 | Difficulty | Leetcode                                                                         |
+| ----------------------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------- |
+| [Implement Trie](/Trie/implement_trie.py)                               | Medium     | [208](https://leetcode.com/problems/implement-trie-prefix-tree/)                 |
+| [ Design Add and Search Words Data Structure](/Trie/add_search_word.py) | Medium     | [211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 
 ## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
 

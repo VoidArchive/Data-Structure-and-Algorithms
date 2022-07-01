@@ -100,11 +100,12 @@ With Python, Javascript and Rust
 
 ## [Heap](/Heap/)
 
-| Problem                                                           | Difficulty | Leetcode                                                              |
-| ----------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
-| [Kth Largest Element in a Stream](/Heap/Kth_largest.py)           | Easy       | [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
-| [Last Stone Weight](/Heap/last_stone_weight.py)                   | Easy       | [1046](https://leetcode.com/problems/last-stone-weight/)              |
-| [Kth Closest Point to origin](/Heap/k_closest_point_to_origin.py) | Medium     | [973](https://leetcode.com/problems/k-closest-points-to-origin/)      |
+| Problem                                                                     | Difficulty | Leetcode                                                              |
+| --------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------- |
+| [Kth Largest Element in a Stream](/Heap/Kth_largest.py)                     | Easy       | [703](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| [Last Stone Weight](/Heap/last_stone_weight.py)                             | Easy       | [1046](https://leetcode.com/problems/last-stone-weight/)              |
+| [Kth Closest Point to origin](/Heap/k_closest_point_to_origin.py)           | Medium     | [973](https://leetcode.com/problems/k-closest-points-to-origin/)      |
+| [Kth largest element in an array](/Heap/kth_largest_element_in_an_array.py) | Medium     | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 
 ## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
 

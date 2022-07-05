@@ -107,6 +107,7 @@ With Python, Javascript and Rust
 | [Kth Closest Point to origin](/Heap/k_closest_point_to_origin.py)           | Medium     | [973](https://leetcode.com/problems/k-closest-points-to-origin/)      |
 | [Kth largest element in an array](/Heap/kth_largest_element_in_an_array.py) | Medium     | [215](https://leetcode.com/problems/kth-largest-element-in-an-array/) |
 | [Task Scheduler](/Heap/task_scheduler.py)                                   | Medium     | [621](https://leetcode.com/problems/task-scheduler/)                  |
+| [Design Twitter](/Heap/Design_twitter.py)                                   | Medium     | [355](https://leetcode.com/problems/design-twitter/)                  |
 
 ## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
 

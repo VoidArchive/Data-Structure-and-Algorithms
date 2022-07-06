@@ -96,8 +96,6 @@ With Python, Javascript and Rust
 | [Implement Trie](/Trie/implement_trie.py)                               | Medium     | [208](https://leetcode.com/problems/implement-trie-prefix-tree/)                 |
 | [ Design Add and Search Words Data Structure](/Trie/add_search_word.py) | Medium     | [211](https://leetcode.com/problems/design-add-and-search-words-data-structure/) |
 
-## [1-D Dynamic Programing](/1-D%20Dynamic%20Programming/)
-
 ## [Heap](/Heap/)
 
 | Problem                                                                     | Difficulty | Leetcode                                                              |
@@ -121,6 +119,12 @@ With Python, Javascript and Rust
 | Problem                                      | Difficulty | Leetcode                                              |
 | -------------------------------------------- | ---------- | ----------------------------------------------------- |
 | [Maximum Sub array](/Greedy/max_subarray.py) | Easy       | [53](https://leetcode.com/problems/maximum-subarray/) |
+
+## [Backtracking](/Backtracking/)
+
+| Problem                                      | Difficulty | Leetcode                                              |
+| -------------------------------------------- | ---------- | ----------------------------------------------------- |
+| [Subsets](/Backtracking/subsets.py)       | Medium     | [78](https://leetcode.com/problems/subsets/) |
 
 ## [Intervals](/Interval/)
 

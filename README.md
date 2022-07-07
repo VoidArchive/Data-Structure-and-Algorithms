@@ -122,9 +122,10 @@ With Python, Javascript and Rust
 
 ## [Backtracking](/Backtracking/)
 
-| Problem                                      | Difficulty | Leetcode                                              |
-| -------------------------------------------- | ---------- | ----------------------------------------------------- |
-| [Subsets](/Backtracking/subsets.py)       | Medium     | [78](https://leetcode.com/problems/subsets/) |
+| Problem                                             | Difficulty | Leetcode                                             |
+| --------------------------------------------------- | ---------- | ---------------------------------------------------- |
+| [Subsets](/Backtracking/subsets.py)                 | Medium     | [78](https://leetcode.com/problems/subsets/)         |
+| [Combination Sum](/Backtracking/combination_sum.py) | Medium     | [39](https://leetcode.com/problems/combination-sum/) |
 
 ## [Intervals](/Interval/)
 

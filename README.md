@@ -122,10 +122,14 @@ With Python, Javascript and Rust
 
 ## [Backtracking](/Backtracking/)
 
-| Problem                                             | Difficulty | Leetcode                                             |
-| --------------------------------------------------- | ---------- | ---------------------------------------------------- |
-| [Subsets](/Backtracking/subsets.py)                 | Medium     | [78](https://leetcode.com/problems/subsets/)         |
-| [Combination Sum](/Backtracking/combination_sum.py) | Medium     | [39](https://leetcode.com/problems/combination-sum/) |
+| Problem                                                             | Difficulty | Leetcode                                                      |
+| ------------------------------------------------------------------- | ---------- | ------------------------------------------------------------- |
+| [Subsets](/Backtracking/subsets.py)                                 | Medium     | [78](https://leetcode.com/problems/subsets/)                  |
+| [Combination Sum](/Backtracking/combination_sum.py)                 | Medium     | [39](https://leetcode.com/problems/combination-sum/)          |
+| [Combination Sum II](/Backtracking/combination_II.py)               | Medium     | [40](https://leetcode.com/problems/combination-sum-ii/)       |
+| [Subsets II](/Backtracking/subsetII.py)                             | Medium     | [90](https://leetcode.com/problems/subsets-ii/)               |
+| [Word Search](/Backtracking/word_search.py)                         | Medium     | [79](https://leetcode.com/problems/word-search/)              |
+| [Palindrome Partitioning](/Backtracking/palindrome_partitioning.py) | Medium     | [131](https://leetcode.com/problems/palindrome-partitioning/) |
 
 ## [Intervals](/Interval/)
 

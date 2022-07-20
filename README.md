@@ -132,6 +132,12 @@ With Python, Javascript and Rust
 | [Palindrome Partitioning](/Backtracking/palindrome_partitioning.py)         | Medium     | [131](https://leetcode.com/problems/palindrome-partitioning/)              |
 | [Letter Combination of a Phone Number](/Backtracking/letter_combination.py) | Medium     | [17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |
 
+## [Graph](/Graph/)
+
+| Problem                                     | Difficulty | Leetcode                                                |
+| ------------------------------------------- | ---------- | ------------------------------------------------------- |
+| [Number of Islands](/Graph/no_of_island.py) | Medium     | [200](https://leetcode.com/problems/number-of-islands/) |
+
 ## [Intervals](/Interval/)
 
 | Problem                                    | Difficulty | Leetcode                                            |

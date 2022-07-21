@@ -13,7 +13,7 @@ class Node {
     public int val;
     public List<Node> neighbors;
 }
- 
+
 
 Test case format:
 
@@ -25,33 +25,27 @@ The given node will always be the first node with val = 1. You must return the c
 
 
 '''
-from typing import List
+
+
+# Definition for a Node.
+class Node:
+    def __init__(self, val=0, neighbors=None):
+        self.val = val
+        self.neighbors = neighbors if neighbors is not None else []
 
 
 class Solution:
-    def numIslands(self, grid: List[List[str]]) -> int:
-        if not grid or not grid[0]:
-            return 0
+    def cloneGraph(self, node: 'Node') -> 'Node':
+        oldToNew = {}
 
-        islands = 0
-        visit = set()
-        rows, cols = len(grid), len(grid[0])
+        def dfs(node):
+            if node in oldToNew:
+                return oldToNew[node]
 
-        def dfs(r, c):
-            if (r not in range(rows) or
-                c not in range(cols) or
-                grid[r][c] == "0" or
-                    (r, c) in visit):
-                return
+            copy = Node(node.val)
+            oldToNew[node] = copy
+            for nei in node.neighbors:
+                copy.neighbors.append(dfs(nei))
+            return copy
 
-            visit.add((r, c))
-            directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
-            for dr, dc in directions:
-                dfs(r + dr, c + dc)
-
-        for r in range(rows):
-            for c in range(cols):
-                if grid[r][c] == "1" and (r, c) not in visit:
-                    islands += 1
-                    dfs(r, c)
-        return islands
+        return dfs(node) if node else None

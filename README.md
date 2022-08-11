@@ -142,6 +142,7 @@ With Python, Javascript and Rust
 | [Pacific Atlantic Water Flow](/Graph/pacific_atlantic.py) | Medium     | [417](https://leetcode.com/problems/pacific-atlantic-water-flow/) |
 | [Surrounding regions](/Graph/surrounding_regions.py)      | Medium     | [130](https://leetcode.com/problems/surrounded-regions/)          |
 | [Rotting Oranges](/Graph/rotting_oranges.py)      | Medium     | [994](https://leetcode.com/problems/rotting-oranges/)          |
+| [Walls and Gate](/Graph/wall_and_gates.py)      | Medium     | [994](https://leetcode.com/problems/walls-and-gates/)          |
 
 ## [Intervals](/Interval/)
 

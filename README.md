@@ -143,6 +143,7 @@ With Python, Javascript and Rust
 | [Surrounding regions](/Graph/surrounding_regions.py)      | Medium     | [130](https://leetcode.com/problems/surrounded-regions/)          |
 | [Rotting Oranges](/Graph/rotting_oranges.py)      | Medium     | [994](https://leetcode.com/problems/rotting-oranges/)          |
 | [Walls and Gate](/Graph/wall_and_gates.py)      | Medium     | [994](https://leetcode.com/problems/walls-and-gates/)          |
+| [Course Schedule](/Graph/course_schedule.py)      | Medium     | [207](https://leetcode.com/problems/course-schedule/)          |
 
 ## [Intervals](/Interval/)
 
